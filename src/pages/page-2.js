@@ -9,7 +9,7 @@ const SecondPage = () => (
     <Seo title="Page two" />
     <h1>Hi from the second page</h1>
     <p>Welcome to page 2</p>
-    <Link to="/posts/page-3">Go to page 3</Link> <br />
+    <Link to="/page-3">Go to page 3</Link> <br />
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 );
